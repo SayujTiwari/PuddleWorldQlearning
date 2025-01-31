@@ -1,0 +1,6 @@
+Metadata-Version: 2.2
+Name: gym_puddle
+Version: 0.0.1
+License-File: LICENSE
+Requires-Dist: gym
+Dynamic: requires-dist
